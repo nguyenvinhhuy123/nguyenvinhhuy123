@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- CS Major, Junior Year HCMUT
+- Unity Game Dev
+- Theorycraft and game analyse as hobby, Video editor as hobby
+- ⚡Sayu Main???
+- -🔭 2023 Axie Game Jam
 <!--
 **nguyenvinhhuy123/nguyenvinhhuy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
