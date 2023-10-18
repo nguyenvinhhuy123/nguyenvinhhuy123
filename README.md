@@ -1,4 +1,4 @@
-### Hi there 👋
+### iSayU here 👋
 
 - CS Major, Junior Year HCMUT
 - Unity Game Dev
