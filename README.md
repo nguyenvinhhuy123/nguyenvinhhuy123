@@ -1,8 +1,8 @@
 ### iSayU here 👋
 
-- CS Major, Junior Year HCMUT
-- Unity Game Dev
-- Theorycraft and game analyse as hobby, Video editor as hobby
+- CS Major, Senior Year HCMUT
+- Unity Game Dev, Software Engineer
+- ⚽Into League analysis, basketball, and football/
 - ⚡Sayu Main???
 - 🔭 2023 Axie Game Jam
 <!--
