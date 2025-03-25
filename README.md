@@ -1,10 +1,16 @@
-### iSayU here 👋
+## iSayU here 👋
 
+### Contacts: 
+- Phone: 0914702276
+- Email: nvhuy211103@gmail.com
+
+### About me:
 - CS Major, Senior Year HCMUT
-- Unity Game Dev, Software Engineer
-- ⚽Into League analysis, basketball, and football/
+- Unity Game Dev (Gotta learn Unreal tho), Software Engineer
+- ⚽Into League analysis, basketball, and football
 - ⚡Sayu Main???
-- 🔭 2023 Axie Game Jam
+
+
 <!--
 **nguyenvinhhuy123/nguyenvinhhuy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
